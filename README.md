@@ -39,7 +39,6 @@ To start the project, it is necessary to download the files from the github repo
 'npm run dev'
 
 # Demo Website
-![screencapture-localhost-5173-cart-2024-08-17-15_55_34](https://github.com/user-attachments/assets/d88e1355-7d15-4e4c-9c3b-5fd9633319e8)
 ![screencapture-localhost-5173-menu-2024-08-17-15_55_56](https://github.com/user-attachments/assets/63636079-173b-46bb-b271-1cdecc2eaa12)
 ![screencapture-localhost-5173-cart-2024-08-17-15_57_00](https://github.com/user-attachments/assets/aba59a97-0d09-4f8f-b70a-d8569f720b91)
 ![screencapture-localhost-5173-order-IIDSAT-2024-08-17-15_57_27](https://github.com/user-attachments/assets/2bfd25a9-1b5f-485a-93db-a9ef5704c1a0)
