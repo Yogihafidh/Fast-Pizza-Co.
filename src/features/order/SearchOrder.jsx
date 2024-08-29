@@ -2,12 +2,19 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 function SearchOrder() {
+  // Form Controlled Element
   const [query, setQuery] = useState("");
+
   const navigate = useNavigate();
+
   function handleSubmit(e) {
+    // Avoid form behavior default
     e.preventDefault();
+
+    // Guard Clause
     if (!query) return;
 
+    // Move to page based on id in form controlled element (path: "/order/:orderID",)
     navigate(`/order/${query}`);
     setQuery("");
   }
