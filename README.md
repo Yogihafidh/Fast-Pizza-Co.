@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # About Website
 Fast Pizzan Co. is website Apps to order pizza and track your orders using React, React router, Tailwind and Redux.
 
@@ -45,4 +43,3 @@ To start the project, it is necessary to download the files from the github repo
 ![screencapture-localhost-5173-cart-2024-08-17-15_57_00](https://github.com/user-attachments/assets/aba59a97-0d09-4f8f-b70a-d8569f720b91)
 ![screencapture-localhost-5173-order-IIDSAT-2024-08-17-15_57_27](https://github.com/user-attachments/assets/2bfd25a9-1b5f-485a-93db-a9ef5704c1a0)
 ![screencapture-localhost-5173-2024-08-17-15_55_08](https://github.com/user-attachments/assets/a1c77363-b051-4e9f-b660-958274425efe)
->>>>>>> 8727437ef0716b032b16b115e1915dbd4e0d84ce
